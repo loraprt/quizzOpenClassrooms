@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quizzOpenClassrooms</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Super quizz</string>
+    <string name="what_name">What\'s your name</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="play">Let\'s play</string>
+</resources>
